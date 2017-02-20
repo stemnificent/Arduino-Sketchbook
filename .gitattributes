@@ -1,6 +1,6 @@
 arduino filter=lfs diff=lfs merge=lfs -text
 *.ino linguist-language=Arduino
 docs/* linguist-documentation
-latex/* linguist-documentation
-
+latex/* linguist-vendored
+libraries/* linguist-vendored
 
